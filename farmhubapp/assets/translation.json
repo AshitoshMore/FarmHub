@@ -1,0 +1,24 @@
+{
+  "welcome": {
+    "English": "Welcome to Farmer's Hub",
+    "Marathi": "किसानांच्या हबमध्ये आपले स्वागत आहे"
+  },
+  "selectLanguage": {
+    "English": "Select app language",
+    "Marathi": "अॅपची भाषा निवडा"
+  },
+  "continue": {
+    "English": "Continue",
+    "Marathi": "संपूर्ण करा"
+  },
+  "language": {
+    "English": {
+      "english": "English",
+      "marathi": "मराठी"
+    },
+    "Marathi": {
+      "english": "अंग्रेजी",
+      "marathi": "मराठी"
+    }
+  }
+}
